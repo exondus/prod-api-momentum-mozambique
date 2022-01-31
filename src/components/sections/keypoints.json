@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_keypoints",
+  "info": {
+    "displayName": "keypoints",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "message": {
+      "type": "text"
+    },
+    "item": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.keypoint"
+    }
+  }
+}

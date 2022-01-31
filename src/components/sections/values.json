@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_sections_values",
+  "info": {
+    "displayName": "values",
+    "icon": "backspace"
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.value"
+    }
+  }
+}

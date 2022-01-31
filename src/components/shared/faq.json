@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_shared_faqs",
+  "info": {
+    "displayName": "faq",
+    "icon": "arrow-alt-circle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "numbers": {
+      "type": "json"
+    },
+    "link": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_faqs",
+  "info": {
+    "displayName": "faqs",
+    "icon": "archway"
+  },
+  "options": {},
+  "attributes": {
+    "message": {
+      "type": "text"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.faq"
+    }
+  }
+}

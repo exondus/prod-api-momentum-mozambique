@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_keypoints",
+  "info": {
+    "displayName": "keypoint_item",
+    "icon": "arrow-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

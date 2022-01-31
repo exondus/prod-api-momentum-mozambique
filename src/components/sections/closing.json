@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_sections_closings",
+  "info": {
+    "displayName": "closing",
+    "icon": "align-right"
+  },
+  "options": {},
+  "attributes": {
+    "message": {
+      "type": "text"
+    },
+    "numbers": {
+      "type": "json"
+    },
+    "email": {
+      "type": "string"
+    }
+  }
+}
